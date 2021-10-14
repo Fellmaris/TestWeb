@@ -1,0 +1,10 @@
+table{
+    collapse: collapse;
+    border: black solid 2px;
+}
+.moveRight{
+    margin-left: 25px;
+}
+body{
+    margin: 10px;
+}
